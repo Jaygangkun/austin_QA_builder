@@ -1,0 +1,61 @@
+.header-logo-wrap{
+    text-align: center;
+}
+
+.logo-img{
+    width: 300px;
+}
+
+.make-trade-link{
+    padding: 30px;
+    margin: 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.make-trade-link:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.make-trade-link--plan{
+    background: #22b9ff;
+}
+
+.make-trade-link--recap{
+    background: #6440ab;
+}
+
+.category-btn-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    padding: 30px 0px;
+}
+
+.disclaimer-desc{
+    font-size: 12px;
+}
+
+.btn-main{
+    background: #6440ab;
+    color: white;
+}
+
+.btn-main:hover{
+    color: white;
+}
+
+#qa_form .error .form-control{
+    border: 1px solid red;
+}
+
+#qa_form .error label{
+    color: red;
+}
